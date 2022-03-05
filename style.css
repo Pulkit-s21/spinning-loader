@@ -32,17 +32,17 @@ body{
 
 .spinner-sector-red{
     animation: rotate 2.5s ease-in infinite;
-    border-top: 15px solid rgba(241, 245, 1, 0.6);
+    border-top: 15px solid lightcoral;
 }
 
 .spinner-sector-blue{
     animation: rotate 2s ease-out infinite;
-    border-top: 15px solid rgba(0, 191, 255, 0.6);
+    border-top: 15px solid lightblue;
 }
 
 .spinner-sector-green{
     animation: rotate 1.5s ease-in-out infinite;
-    border-top: 15px solid rgba(255, 0, 128, 0.6);
+    border-top: 15px solid lightgreen;
 }
 
 .spinner-text{
